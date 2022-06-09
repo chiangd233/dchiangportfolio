@@ -6,7 +6,9 @@ import {MdEmail} from "react-icons/md"
 function Footer() {
     return <div className="footer">
         <div className="socialMedia">
-        <FaLinkedin />
+        <a href="https://www.linkedin.com/in/dominick-chiang-e-i-t-30751182/" target="_blank" rel="noreferrer">
+            <FaLinkedin />
+        </a>
         <FaGithub />
         <MdEmail />
         </div>
