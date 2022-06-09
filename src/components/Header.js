@@ -24,9 +24,9 @@ function Header() {
             </button>
         </div>
         <div className = "links">
-            <Link to="/"> Home </Link>
-            <Link to="/projects"> Projects </Link>
-            <Link to="/experience"> Experience </Link>
+            <Link to="/dchiangportfolio/"> Home </Link>
+            <Link to="/dchiangportfolio/projects"> Projects </Link>
+            <Link to="/dchiangportfolio/experience"> Experience </Link>
         </div>
     </div>
 }
