@@ -27,7 +27,7 @@ function Experience() {
                     <p>- Took lead for the civil team, after the sudden leaving of an employee, and completed submission deadlines in under a week.</p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement 
-                    className="vertical-timeline-element--work"
+                    className="vertical-timeline-element--education"
                     layout = {'2-columns'}
                     contentStyle={{borderTop: '7px solid #C21807'}}
                     contentArrowStyle={{borderRight:'7px solid white'}}
