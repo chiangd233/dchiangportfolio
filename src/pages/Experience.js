@@ -50,7 +50,7 @@ function Experience() {
                     icon={<MdWork />}
                 >
                     <h3 className="vertical-timeline-element-title">Colliers Engineering and Design, Inc.</h3>
-                    <h4 className="vertical-timeline-element-subtitle">Water Wastewater Engineer</h4>
+                    <h4 className="vertical-timeline-element-subtitle">Water/Wastewater Engineer</h4>
                     <h4 className="vertical-timeline-element-subtitle">Red Bank, New Jersey</h4>
                     <p className="a">- Designed pump station improvements after damages from Hurricane Ida in under 3 weeks to prevent loss of sanitary service to hundreds of people.</p>
                     <p className="a">- Managed all associated permits with the NJDEP to reduce design period by one year and made transition smooth from design to construction</p>
