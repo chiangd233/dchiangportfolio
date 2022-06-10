@@ -1,6 +1,7 @@
 import React from "react";
 import {VerticalTimeline, VerticalTimelineElement} from 'react-vertical-timeline-component';
 import "react-vertical-timeline-component/style.min.css"
+import "../styles/experience.css"
 import {TbSchool} from "react-icons/tb"
 import {MdWork} from "react-icons/md"
 
@@ -20,6 +21,10 @@ function Experience() {
                     <h3 className="vertical-timeline-element-title">Black and Veatch</h3>
                     <h4 className="vertical-timeline-element-subtitle">Civil Engineer - Water/Wastewater</h4>
                     <h4 className="vertical-timeline-element-subtitle">New York City, New York</h4>
+                    <p>- Designed preventative electrical improvements to one of the nation’s largest treatment plant to prevent future natural disaster damages and survive up to a 500-year flood.</p>
+                    <p>- Guided CAD team and structural/electrical engineers on design to accomplish 60% to 90% design plans in under three months</p>
+                    <p>- Adapted knowledge in multiple disciplines apart from water/wastewater, such as electrical design and site development to increase profitability in the team</p>
+                    <p>- Took lead for the civil team, after the sudden leaving of an employee, and completed submission deadlines in under a week.</p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement 
                     className="vertical-timeline-element--work"
@@ -33,6 +38,7 @@ function Experience() {
                     <h3 className="vertical-timeline-element-title">General Assembly</h3>
                     <h4 className="vertical-timeline-element-subtitle">Software Engineering Immersive Online Flex</h4>
                     <h4 className="vertical-timeline-element-subtitle">New York City, New York</h4>
+                    <p>Full-stack software engineering immersive student in an intensive, twelve-week, 450+ hour program focused on product development fundamentals, object-oriented programming, MVC frameworks, data modeling, and team collaboration strategies. Developed a portfolio of individual and group projects.</p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement 
                     className="vertical-timeline-element--work"
@@ -46,6 +52,9 @@ function Experience() {
                     <h3 className="vertical-timeline-element-title">Colliers Engineering and Design, Inc.</h3>
                     <h4 className="vertical-timeline-element-subtitle">Water Wastewater Engineer</h4>
                     <h4 className="vertical-timeline-element-subtitle">Red Bank, New Jersey</h4>
+                    <p>- Designed pump station improvements after damages from Hurricane Ida in under 3 weeks to prevent loss of sanitary service to hundreds of people.</p>
+                    <p>- Managed all associated permits with the NJDEP to reduce design period by one year and made transition smooth from design to construction</p>
+                    <p>- Utilized ArcGIS and AutoCAD to design plans and figures more efficiently, which brought professionalism and quality to our work.</p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement 
                     className="vertical-timeline-element--work"
@@ -59,6 +68,9 @@ function Experience() {
                     <h3 className="vertical-timeline-element-title">Prestige Environmental, Inc.</h3>
                     <h4 className="vertical-timeline-element-subtitle">Environmental Engineer</h4>
                     <h4 className="vertical-timeline-element-subtitle">Somerset, New Jersey</h4>
+                    <p>- Managed several remediation projects including site inspection and construction oversight.</p>
+                    <p>- Creating Preliminary Assessment, Site Investigation, Remedial Action, and Response Action Reports for each remedial site.</p>
+                    <p>- Used ArcGIS, Microsoft Office, and Adobe PDF to create figures, graphs and tables.</p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement 
                     className="vertical-timeline-element--education"
