@@ -14,9 +14,15 @@ function Home() {
             <h3>Full Stack Software Engineer</h3>
             <div className="prompt">
                 <p>Experienced Full-Stack Engineer with a history of working in the field of web development with programs such as React, Javascript, CSS, HTML, React and Python.</p>
-                <FaLinkedin height="50px" width="50px" />
-                <FaGithub height="50px" width="50px" />
-                <MdEmail height="50px" width="50px" />
+                <a className="link" href="https://www.linkedin.com/in/dominick-chiang-e-i-t-30751182/" target="_blank" rel="noreferrer">
+                    <FaLinkedin />
+                </a>
+                <a className="link" href="https://github.com/chiangd233" target="_blank" rel="noreferrer">
+                    <FaGithub />
+                </a>
+                < a className="link" href="mailto:chiangd233@gmail.com">
+                    <MdEmail />
+                </a>
             </div>
         </div>
         <div className="Skills"> 
