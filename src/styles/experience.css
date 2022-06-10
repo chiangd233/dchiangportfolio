@@ -8,8 +8,7 @@
     font-family: 'Source Code Pro', monospace;
 }
 
-p {
+.a {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 0.625em;
     text-align: left;
 }
