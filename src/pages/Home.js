@@ -12,7 +12,6 @@ function Home() {
         <div className="about"> 
             <h2>Dominick Chiang</h2>
             <h3>Full Stack Software Engineer</h3>
-            <h3>Water Wastewater Engineer</h3>
             <div className="prompt">
                 <p>Experienced Full-Stack Engineer with a history of working in the field of web development with programs such as React, Javascript, CSS, HTML, React and Python.</p>
                 <a className="link" href="https://www.linkedin.com/in/dominick-chiang-e-i-t-30751182/" target="_blank" rel="noreferrer">
