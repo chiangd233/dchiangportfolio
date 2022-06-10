@@ -92,7 +92,7 @@ function Home() {
                 <p>I have been a Full Stack Engineer for about 7 months with experience in React, Python, Javascript, and much more! I found interest in coding after realizing how much of the current world runs on softwares and I wanted to increase my skill set. My favorite framework is the React Django REST framework as I love using python and love taking on a challenge! </p>
                 <p>Apart from being a Full Stack Engineer, I am also a Water Wastewater Engineer, focusing on designing of wastewater treatment plants, pump stations and collection systems using softwares such as AutoCAD and ArcGIS. I believe that protecting the environment and making the world a better place for the future generations is one of my most important philosophy.</p>
                 <p>My non-technical areas of expertise include project management, teamwork, fast adaptability, optimism and bilingual in Mandarin and English, </p>
-                <p>Lastly, in my free time, I love to traveling to new places to hike, cycling and rowing, and playing video games. </p>
+                <p>Lastly, in my free time, I love traveling to new places, hiking, cycling and rowing, and playing video games. </p>
             </div>
             <div className="img">
                 <img src = {Photo} alt="dominick" width="100%" height="650px"/>
