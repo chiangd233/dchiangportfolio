@@ -94,8 +94,8 @@ function Home() {
                 <p>My non-technical areas of expertise include project management, teamwork, fast adaptability, optimism and bilingual in Mandarin and English, </p>
                 <p>Lastly, in my free time, I love traveling to new places, hiking, cycling and rowing, and playing video games. </p>
             </div>
-            <div className="img">
-                <img src = {Photo} alt="dominick" width="100%" height="650px"/>
+            <div className="divone">
+                    <img className="img" src = {Photo} alt="dominick" width="100%" height="650px"/>
             </div>
         </div>
     </div>

@@ -65,22 +65,28 @@ p {
 
 .divone {
     display: flex;
-
+    background-color: #0e387a;
 }
 .description {
     width: 100%;
     word-wrap: break-word;
     hyphens: auto;
     padding: 20px;
-    background-color: #0e387a;
+    
     color: white;
     font-size: 20px;
     text-align: left;
 }
 
 .img{
-    max-width: 100%;
+    max-width: 75%;
+    float: right;
+    margin: auto;
+    background-color: #0e387a;
     height: auto;
+    border: 5px solid black;
+    border-radius: 45px;
+    border-style: outset;
 }
 
 .link {
