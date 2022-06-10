@@ -9,7 +9,7 @@
 
 .about {
     width: 100%;
-    height: calc(100vh - 100px);
+    height: calc(100vh - 250px);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -23,7 +23,11 @@
     font-family: 'Fjalla One', sans-serif;
     font-size: 60px;
     color: #9fafca;
-    height: 50px;
+    height: 30px;
+}
+
+.about h3 {
+    margin: 5px;
 }
 
 .about .prompt {
@@ -71,6 +75,7 @@ p {
     background-color: #0e387a;
     color: white;
     font-size: 20px;
+    text-align: left;
 }
 
 .img{
