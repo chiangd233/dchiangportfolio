@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dchiangportfolio/static/css/main.47afc7c5.css",
-    "main.js": "/dchiangportfolio/static/js/main.7b9a3856.js",
+    "main.css": "/dchiangportfolio/static/css/main.ba739508.css",
+    "main.js": "/dchiangportfolio/static/js/main.d38e09a8.js",
     "static/js/787.1ed0c42c.chunk.js": "/dchiangportfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/BUNBUN.png": "/dchiangportfolio/static/media/BUNBUN.e75c5423afbab1df91ae.png",
     "static/media/DefendtheTower.png": "/dchiangportfolio/static/media/DefendtheTower.bae89612d77e31c30ccd.png",
@@ -9,12 +9,12 @@
     "static/media/RoadTrip.png": "/dchiangportfolio/static/media/RoadTrip.4b616bbc95f89296a7e1.png",
     "static/media/GITFITNOW.png": "/dchiangportfolio/static/media/GITFITNOW.d546c66ef1f1e72ffdd4.png",
     "index.html": "/dchiangportfolio/index.html",
-    "main.47afc7c5.css.map": "/dchiangportfolio/static/css/main.47afc7c5.css.map",
-    "main.7b9a3856.js.map": "/dchiangportfolio/static/js/main.7b9a3856.js.map",
+    "main.ba739508.css.map": "/dchiangportfolio/static/css/main.ba739508.css.map",
+    "main.d38e09a8.js.map": "/dchiangportfolio/static/js/main.d38e09a8.js.map",
     "787.1ed0c42c.chunk.js.map": "/dchiangportfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47afc7c5.css",
-    "static/js/main.7b9a3856.js"
+    "static/css/main.ba739508.css",
+    "static/js/main.d38e09a8.js"
   ]
 }
